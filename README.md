@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devinlinux
 - 👀 I’m interested in Application and Web Development
-- 🌱 I’m currently learning Java, Rust, and Zig
+- 🌱 I’m currently learning Java, Rust, Zig, and OCaml
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: My email: Michael.Bobrowski25@bishopireton.org
 
